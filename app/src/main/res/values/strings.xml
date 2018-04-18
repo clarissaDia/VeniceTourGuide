@@ -1,0 +1,166 @@
+<resources>
+    <string name="app_name">VeniceTourGuide</string>
+    <string name="category_visit">To Visit</string>
+    <string name="museums">Museums</string>
+    <string name="piazza_sanmarco">Piazza San Marco</string>
+    <string name="sanmarco_descr">Piazza San Marco is the principal public square of Venice.
+        It is the only square in Venice, all other urban spaces in the city are called campi. 
+        It is one of the most beautiful squares in Italy, known for its buildings and architecture</string>
+    <string name="rialto">Ponte di Rialto</string>
+    <string name="rialto_descr">The oldest and the most famous of the bridges spanning the Grand Canal.
+        It connects the sestrieri of San Marco and San Polo.
+        It has been rebuilt several times since its first construction in the 12th Century.</string>
+    <string name="sospiri">Ponte dei Sospiri</string>
+    <string name="sospiri_descr">Very close to Piazza San Marco it connects the Prison (Piombi) and the Doge’s Palace. 
+        The bridge\'s name comes from the suggestion that prisoners would sigh at their 
+        final view of Venice before being taken to their cells.</string>
+    <string name="scalzi">Ponte degli Scalzi</string>
+    <string name="scalzi_descr">Is one of the bridges to span the Grand Canal. 
+        The bridge connects the sestrieri of Santa Croce and Cannaregio.
+        It is located in front of the railway Station Santa Lucia.</string>
+    <string name="ponte_accademia">Ponte dell\'Accademia</string>
+    <string name="accademia_descr">The Ponte dell\'Accademia is another of the bridges  spanning  the Grand Canal,
+        it crosses near the southern end of the canal.
+        It is not a stone bridge, but a wooden bridge with metal arches. </string>
+    <string name="guglie">Ponte delle Guglie</string>
+    <string name="guglie_descr">Located in the Sestriere of Cannaregio, 
+        it is adorned with spires lying at each end of the bridge from whence it takes its name.</string>
+    <string name="tre_archi">Ponte dei Tre Archi</string>
+    <string name="tre_archi_descr">Is one of the most important bridges in Venice. 
+        It is a three arch bridge, the biggest one at the center and two smaller by each side.</string>
+    <string name="fondamente_nuove">Fondamente Nuove</string>
+    <string name="fondamente_nuove_descr">Located in the north side of the lagoon, it hangs on the back of the jewish Ghetto.
+        From here, with sunny and clear sky you can see the Cadore mountains.</string>
+    <string name="bovolo">Scala Contarini del Bovolo</string>
+    <string name="bovolo_descr">Palazzo Contarini del Bovolo is a Palazzo built in 15th Century.
+        It is best known for its external multi-arch spiral staircase known as the Scala Contarini del Bovolo.</string>
+
+    <string name="palazzo_ducale">Palazzo Ducale</string>
+    <string name="ducale_address">San Marco 1 - Piazza San Marco</string>
+    <string name="ducale_time">from 01/04 to 31/10 8.30 a.m. - 19.00 p.m. From 01/11 to 31/03 8.30 a.m. 17.30 p.m.</string>
+    <string name="ducale_ticket">Ticket Musei di Piazza San Marco  € 20,00 Reduced € 13,00</string>
+
+    <string name="basilica_sanmarco">Basilica di San Marco</string>
+    <string name="basilica_address">San Marco 328 - Piazza San Marco</string>
+    <string name="basilica_time">9.30 am - 17.00 pm, Sundays 14.00 pm 16.30 pm</string>
+    <string name="basilica_ticket">Free entrance </string>
+
+    <string name="museo_correr">Museo Correr</string>
+    <string name="correr_address">San Marco 52, - Piazza San Marco Entrance: Ala Napoleonica - Scalone Monumentale</string>
+    <string name="correr_time">from 01/04 to 31/10 10.00 am 19.00 pm. From 01/11 to 31/03 10.00 am 17.00 pm</string>
+    <string name="correr_ticket">Ticket Musei di Piazza San Marco  € 20,00 Reduced € 13,00</string>
+
+    <string name="gallerie_accademia">Gallerie dell\'Accademia</string>
+    <string name="gallerie_address">Campo della Carità - Dorsoduro 1050</string>
+    <string name="gallerie_time">Mon 8.15 am 14.00 pm Tue-Sun 8.15 am 19.15 pm</string>
+    <string name="gallerie_ticket">Ticket € 15,00 Reduced € 7,50</string>
+
+    <string name="ca_oro">Ca\' D\'Oro</string>
+    <string name="oro_address">Cannaregio 3932  - Strada Nuova</string>
+    <string name="oro_time">Mon. 8.15 am 14.00 pm Tue -Sat. 08.15 am 19.15 pm Sun. 9.00 am 19.00 pm</string>
+    <string name="oro_ticket">Ticket € 11,00 Reduced € 5,50</string>
+
+    <string name="rezzonico">Ca\' Rezzonico</string>
+    <string name="rezzonico_address">Dorsoduro 3136</string>
+    <string name="rezzonico_time">From 01/04 to 31/10 10.00 am 18.00 pm From 01/11 to 31/03 10.00 am 17.00 pm.
+        Closed on Tuesday</string>
+    <string name="rezzonico_ticket">Ticket € 10,00 Reduced € 7,50</string>
+
+    <string name="pesaro">Ca\' Pesaro Galleria Internazionale di Arte Moderna</string>
+    <string name="pesaro_address">Santa Croce 2076</string>
+    <string name="pesaro_time">From 01/04 to 31/10 10.00 am 18.00 pm. From 01/11 to 31/03 10.00 am 16.00 pm.</string>
+    <string name="pesaro_ticket">Ticket € 10,00 Reduced € 7,50</string>
+
+    <string name="mocenigo">Palazzo Mocenigo</string>
+    <string name="mocenigo_address">Santa Croce 1992</string>
+    <string name="mocenigo_time">From 01/04 to 31/10 10.00 am 17.00 pm. From 01/11 to 31/03 10.00 am 16.00 pm.
+        Closed on Monday.</string>
+    <string name="mocenigo_ticket">Ticket € 8,00 Reduced € 5,50</string>
+
+    <string name="goldoni">Museo di Casa Goldoni</string>
+    <string name="goldoni_address">San Polo 2794</string>
+    <string name="goldoni_time">From 01/04 to 31/10 10.00 am 17.00 pm. From 01/11 to 31/03 10.00 am 16.00 pm.
+        Closed on Wednesday.</string>
+    <string name="goldoni_ticket">Ticket € 5,00 Reduced € 3,50</string>
+
+    <string name="fortuny">Palazzo Fortuny</string>
+    <string name="fortuny_address">San Marco 3958</string>
+    <string name="fortuny_time">10.00 am 18.00 pm. Closed on Tuesday</string>
+    <string name="fortuny_ticket">Ticket € 10,00 Reduced € 8,00</string>
+
+    <string name="grimani">Palazzo Grimani</string>
+    <string name="grimani_address">Ramo Grimani - Castello 4858</string>
+    <string name="grimani_time">10.00 am 19.00 pm. Closed on Monday.</string>
+    <string name="grimani_ticket">Ticket € 5,00 Reduced € 2,50</string>
+
+
+    <string name="carnevale">Carnevale di Venezia </string>
+    <string name="carnevale_descr">The Venice Carnival history and its origins is a subject that fascinates many people.
+        The celebration of the Venetian Carnival,attracts tourists from all over the world
+        and every year the Carnival in Venice transforms the city into a cocktail of parties and fun
+        with its distinctive appointments. /n Edition 2018: 27 Jan. - 13 Feb</string>
+
+
+    <string name="redentore">La festa del Redentore</string>
+    <string name="redentore_descr">The Venice Redentore Festival is one of the most famous events of the city.
+        The Redentore night  is the most awaited moment:
+        The fireworks show creates an atmosphere of many colours making the city even more magical. /n
+    Redentore is celebrated every year on the third weekend of July.</string>
+
+
+    <string name="regata">Regata Storica</string>
+    <string name="regata_descr">Historic parade and competitive regattas to re-enact the past of Venice. /n
+        Regata Storica takes place every year on the first Sunday in september.
+    </string>
+
+
+    <string name="cinema">La mostra del Cinema di Venezia</string>
+    <string name="cinema_descr">The Venice film festivalenjoys the distinction of the oldest film festival in the world.
+        With its projections, celebrity guests and important awards, is one of the most important of the world. /n
+        Mostra del cinema takes place in Venice - Lido
+        and has variable dates between August and early September.
+    </string>
+
+
+    <string name="archit">La Biennale di Architettura</string>
+    <string name="archit_descr">The Venice Biennale of Architecture is one of the most important
+        events showing themes, works and protagonists of the contemporary architecture. /n
+    It takes place every two years, alternating with the International Art Exhibition.
+    </string>
+
+
+    <string name="arte">La Biennale di Arte</string>
+    <string name="arte_desr">The Venice Biennale  International Art Exhibition  is a major event
+        that for more than a century brings the best of the international art scene to Venice. /n
+    It takes place every two years, alternating with the Biennale of Architecture.
+    </string>
+
+    <string name="gondola">Gondola</string>
+    <string name="gondola_descr">Is a traditional, flat-bottomed Venetian rowing boat.
+        It is similar to a canoe, except it is narrower. It is propelled by a gondolier, who uses a rowing.</string>
+    <string name="canale">Canale</string>
+    <string name="canale_descr">The canals in venice are the major water traffic corridors. 
+        The most famous and Important is the Grand Canal.</string>
+    <string name="rio">Rio</string>
+    <string name="rio_descr">Is a term use in Venice to indicate a minor waterway.</string>
+    <string name="calle">Calle</string>
+    <string name="calle_descr">Is the street in Venice.</string>
+    <string name="fondamenta">Fondamenta</string>
+    <string name="fondamenta_descr">Is a term used in Venice to indicate a walkway 
+        along the bank of a canal or a rio respectively.</string>
+    <string name="campo">Campo</string>
+    <string name="campo_descr">Is the city Square in Venice. Venice has only one Square, St. Mark’s,
+        all the others are called campo.</string>
+    <string name="sestriere">Sestriere</string>
+    <string name="sestriere_descr">The municipality is divided into 6 district areas called Sestrieri,
+        which are: Santa Croce, Cannaregio, San Polo, San Marco, Dorsoduro, Castello.</string>
+
+
+    <string name="visit_list">Must see</string>
+    <string name="museums_visit">Museums</string>
+    <string name="events">Events</string>
+    <string name="words">You may hear</string>
+
+
+
+</resources>
